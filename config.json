@@ -1,0 +1,20 @@
+{
+    "TOKEN": "7883762104:AAHV6YE2mWkdgI51ZWzfIzctaxdGhkUxcHA",
+    "OWNER_IDS": [
+        941791842, 5804110706
+    ],
+    "WEBSITES": [
+        {
+            "name": "Моя Музыка ВК",
+            "url": "https://vk.com/audios431195444?section=all"
+        },
+        {
+            "name": "Gemini",
+            "url": "https://gemini.google.com/app?hl=ru"
+        },
+        {
+            "name": "БАРС",
+            "url": "https://bars.mpei.ru/bars_web/ST_Study/Main/Main?studentID=02222c41-d424-ed11-80d6-005056be401c"
+        }
+    ]
+}
